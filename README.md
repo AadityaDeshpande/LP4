@@ -1,2 +1,2 @@
 # LP4
-SCOA Assignments of LP4 lab
+SCOA + CC Assignments of LP4 lab
